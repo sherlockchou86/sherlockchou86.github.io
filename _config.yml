@@ -48,10 +48,10 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: 
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: 
 
 
 
@@ -74,10 +74,16 @@ friends: [
         title: "周见智",
         href: "http://www.cnblogs.com/xiaozhi_5638/"
     },{
-        title: "博客园",
-        href: "http://www.cnblogs.com/"
+        title: "github",
+        href: "http://www.github.com/sherlockchou86/"
     },{
         title: "朝鲜劳动党",
-        href: "#"
+        href: "http://www.rodong.rep.kp/cn/"
+    },{
+        title: "中国共产党",
+        href: "http://cpc.people.com.cn/"
+    },{
+        title: "国际共产主义联盟",
+        href: "http://www.icl-fi.org/"
     }
 ]
