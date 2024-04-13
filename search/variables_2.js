@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['ba_5fdf_0',['ba_df',['../namespacevehicle__ba__server.html#ac0ac654e628374f53d619953ab027f81',1,'vehicle_ba_server']]],
+  ['ba_5fflags_1',['ba_flags',['../classvp__objects_1_1vp__frame__target.html#a9a685cdc7fe4a768967ca3880b0a241d',1,'vp_objects::vp_frame_target']]],
+  ['ba_5flabel_2',['ba_label',['../classvp__objects_1_1vp__ba__result.html#ac8636a558825c7393f79939f4bd3320c',1,'vp_objects::vp_ba_result']]],
+  ['ba_5fresults_3',['ba_results',['../classvp__objects_1_1vp__frame__meta.html#a37cf0b083ffaf82a5633e0a493a4d4ef',1,'vp_objects::vp_frame_meta']]],
+  ['base_5fptr_4',['base_ptr',['../structcereal_1_1base__class.html#a104db3f222397a826d0c046372fde64e',1,'cereal::base_class::base_ptr'],['../structcereal_1_1virtual__base__class.html#a05ecaf63e04ea18fec2733628f9679eb',1,'cereal::virtual_base_class::base_ptr']]],
+  ['batch_5fsize_5',['batch_size',['../classvp__nodes_1_1vp__infer__node.html#ad6be3a0a08b04673e39ebd966141aa86',1,'vp_nodes::vp_infer_node']]],
+  ['begin_5f_6',['begin_',['../struct_memory_stream.html#a91f0767b4f0ed2476d835e8344848a2f',1,'MemoryStream']]],
+  ['bind_5fip_7',['bind_ip',['../namespaceencoding__receiver.html#a271fda5a586a87d0362e44f32b1e8057',1,'encoding_receiver.bind_ip'],['../namespaceproperty__encoding__receiver.html#a003ecc8d581b11d8b37622fd6fe62fb0',1,'property_encoding_receiver.bind_ip']]],
+  ['bind_5fport_8',['bind_port',['../namespaceencoding__receiver.html#a71a6b19ac41fc4057db6d4e50fba265e',1,'encoding_receiver.bind_port'],['../namespaceproperty__encoding__receiver.html#a3d6895fb9f859477f42187fb2fbda145',1,'property_encoding_receiver.bind_port']]],
+  ['bitrate_9',['bitrate',['../classvp__nodes_1_1vp__file__des__node.html#a97e0a85d324744147da4b989435e150e',1,'vp_nodes::vp_file_des_node::bitrate'],['../classvp__nodes_1_1vp__rtmp__des__node.html#aab6f9b243dc9262a5908a9038ed53ae7',1,'vp_nodes::vp_rtmp_des_node::bitrate']]],
+  ['bot_10',['Bot',['../struct_clipper_lib_1_1_t_edge.html#adddb6b117ed14437613d26cc456bb4bc',1,'ClipperLib::TEdge']]],
+  ['bottom_11',['bottom',['../struct_clipper_lib_1_1_int_rect.html#a9da9418de5faa7eba55e8ee98a13ea0e',1,'ClipperLib::IntRect']]],
+  ['bottompt_12',['BottomPt',['../struct_clipper_lib_1_1_out_rec.html#adc4d612df109de83dca298204176ff0c',1,'ClipperLib::OutRec']]],
+  ['bound_13',['bound',['../structstate.html#a36522140e6ff24a436e1a6cbd44481c3',1,'state::bound'],['../structte__expr.html#a4f1d4ecec4c2f1d55347f268e2721c23',1,'te_expr::bound']]],
+  ['box_14',['box',['../struct_paddle_o_c_r_1_1_o_c_r_predict_result.html#a4af514e0de1b8ab4d18564467933e150',1,'PaddleOCR::OCRPredictResult::box'],['../struct_paddle_o_c_r_1_1_structure_predict_result.html#a698aba4ef08dea28ad7bf4347b041fe2',1,'PaddleOCR::StructurePredictResult::box']]],
+  ['broke_5ffor_15',['broke_for',['../classvp__nodes_1_1vp__msg__broker__node.html#af236594969815bb0c39985e6e6f66aa8',1,'vp_nodes::vp_msg_broker_node']]],
+  ['broke_5ffors_16',['broke_fors',['../classvp__nodes_1_1vp__msg__broker__node.html#a581b926a9ef38ffa40e6265f44333fa5',1,'vp_nodes::vp_msg_broker_node']]]
+];

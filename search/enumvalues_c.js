@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['newline_0',['newline',['../classcereal_1_1_j_s_o_n_output_archive_1_1_options.html#abf98703312edbd7e053fe71acb737cdfa85a422ca8625a1f6325c2e044756b4e3',1,'cereal::JSONOutputArchive::Options']]],
+  ['node_5fcdata_1',['node_cdata',['../namespacecereal_1_1rapidxml.html#aab2d5980a8a21b2756ba35cbb95e9263a98ef4e8c545dec81ec2b33b92a6bb3c1',1,'cereal::rapidxml']]],
+  ['node_5fcomment_2',['node_comment',['../namespacecereal_1_1rapidxml.html#aab2d5980a8a21b2756ba35cbb95e9263a519da12b862b2bd5aa95830a72375d75',1,'cereal::rapidxml']]],
+  ['node_5fdata_3',['node_data',['../namespacecereal_1_1rapidxml.html#aab2d5980a8a21b2756ba35cbb95e9263a8b6a06f4cf1055c83f99c9ed04858e56',1,'cereal::rapidxml']]],
+  ['node_5fdeclaration_4',['node_declaration',['../namespacecereal_1_1rapidxml.html#aab2d5980a8a21b2756ba35cbb95e9263a5d8aa19d8f93f044279b6817e33f29f1',1,'cereal::rapidxml']]],
+  ['node_5fdoctype_5',['node_doctype',['../namespacecereal_1_1rapidxml.html#aab2d5980a8a21b2756ba35cbb95e9263a14defdac48e742fb8291da33afcdf383',1,'cereal::rapidxml']]],
+  ['node_5fdocument_6',['node_document',['../namespacecereal_1_1rapidxml.html#aab2d5980a8a21b2756ba35cbb95e9263a22f2dbafacbbb3b356405b8f370430d5',1,'cereal::rapidxml']]],
+  ['node_5felement_7',['node_element',['../namespacecereal_1_1rapidxml.html#aab2d5980a8a21b2756ba35cbb95e9263ada82b43fae93b4efa783692e37ffe72f',1,'cereal::rapidxml']]],
+  ['node_5fname_8',['NODE_NAME',['../namespacevp__objects.html#a906ba2b677aef7643e37feeac8dd0deda092a116d21707dffa344d250c1de1e03',1,'vp_objects']]],
+  ['node_5fpi_9',['node_pi',['../namespacecereal_1_1rapidxml.html#aab2d5980a8a21b2756ba35cbb95e9263ac0584292465bd3b3caa52a640ab89af8',1,'cereal::rapidxml']]],
+  ['non_5fblocking_5fwould_5fhave_5fblocked_10',['non_blocking_would_have_blocked',['../structkissnet_1_1socket__status.html#addf4d4c9bb932dd1e8a4d1b19ba017aaa97b86ac3068d68c66143a4d3ee94d412',1,'kissnet::socket_status']]],
+  ['none_11',['NONE',['../namespacevp__objects.html#ad7093a66c0fc7771b4678939a907cd2dab50339a10e1de285ac99d4c3990b8693',1,'vp_objects']]],
+  ['normal_12',['NORMAL',['../namespacevp__nodes.html#a461dd4f7d99ab8255b1b8fb4e3985c66a1e23852820b9154316c7c06e2b7ba051',1,'vp_nodes::NORMAL'],['../namespacevp__nodes.html#a3ebe61d8361e7e54535ebd9fa614db8ba1e23852820b9154316c7c06e2b7ba051',1,'vp_nodes::NORMAL']]],
+  ['nostrat_13',['NOSTRAT',['../namespacevp__nodes.html#a5302ad9dd11e2593f548b280718eab2fae1f33e4c3ad6cd1ce0f7db6839138968',1,'vp_nodes']]],
+  ['ntany_14',['ntAny',['../namespace_clipper_lib.html#a31e9eef1fdd14cee54118420090b61d3a09c9a9c0c8c053a8448acca58516d189',1,'ClipperLib']]],
+  ['ntclosed_15',['ntClosed',['../namespace_clipper_lib.html#a31e9eef1fdd14cee54118420090b61d3a8d3c6a25728d41b1de5343657e4ea070',1,'ClipperLib']]],
+  ['ntopen_16',['ntOpen',['../namespace_clipper_lib.html#a31e9eef1fdd14cee54118420090b61d3ada15652825339e4dd39f49e3ad377919',1,'ClipperLib']]]
+];
