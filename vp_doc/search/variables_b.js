@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['kdefaultarraycapacity_0',['kDefaultArrayCapacity',['../class_generic_value.html#a188f57bdb1923c1fefe74baa995871a3',1,'GenericValue']]],
+  ['kdefaultcapacity_1',['kDefaultCapacity',['../struct_generic_memory_buffer.html#af6ecdbdbb8d3aa53cdef6e788e4980be',1,'GenericMemoryBuffer::kDefaultCapacity'],['../class_generic_string_buffer.html#ae74f9df854dd5a7db4315ef44b016d22',1,'GenericStringBuffer::kDefaultCapacity']]],
+  ['kdefaultleveldepth_2',['kDefaultLevelDepth',['../class_writer.html#a9cb4caeb9d8971f305edff1d70e67acb',1,'Writer']]],
+  ['kdefaultmaxdecimalplaces_3',['kDefaultMaxDecimalPlaces',['../class_writer.html#ab46d66ae0ca78cb03ab7fb865d129934',1,'Writer']]],
+  ['kdefaultobjectcapacity_4',['kDefaultObjectCapacity',['../class_generic_value.html#a284d018914629aed9a4bd97fe2dc5899',1,'GenericValue']]],
+  ['kdiysignificandsize_5',['kDiySignificandSize',['../structinternal_1_1_diy_fp.html#aac30e0c32d43425ac403281fc9b0cee4',1,'internal::DiyFp']]],
+  ['kdpdenormalexponent_6',['kDpDenormalExponent',['../structinternal_1_1_diy_fp.html#a994f16a1247a290cfc3a875715e3a92b',1,'internal::DiyFp']]],
+  ['kdpexponentbias_7',['kDpExponentBias',['../structinternal_1_1_diy_fp.html#a38b6f864ae0859d43fa96c3ff27959be',1,'internal::DiyFp']]],
+  ['kdpexponentmask_8',['kDpExponentMask',['../structinternal_1_1_diy_fp.html#aaacbf068c44275f4451db750938bd1d3',1,'internal::DiyFp']]],
+  ['kdphiddenbit_9',['kDpHiddenBit',['../structinternal_1_1_diy_fp.html#a43ea451ce20095b1ff53cccf132ca15f',1,'internal::DiyFp']]],
+  ['kdpmaxexponent_10',['kDpMaxExponent',['../structinternal_1_1_diy_fp.html#a80535a5594dae96fc482757a54162c7d',1,'internal::DiyFp']]],
+  ['kdpminexponent_11',['kDpMinExponent',['../structinternal_1_1_diy_fp.html#a9ad1b0cdbab318e45d2bc48e64707ef3',1,'internal::DiyFp']]],
+  ['kdpsignificandmask_12',['kDpSignificandMask',['../structinternal_1_1_diy_fp.html#a841ef0ae29ccd2889e7f96aad76b0179',1,'internal::DiyFp']]],
+  ['kdpsignificandsize_13',['kDpSignificandSize',['../structinternal_1_1_diy_fp.html#a037aed0fa0b66af0a13657418edef19e',1,'internal::DiyFp']]],
+  ['key_14',['key',['../structcereal_1_1_map_item.html#af4d4e11ae4f201877bc57952becf2eef',1,'cereal::MapItem']]],
+  ['key_5fpoints_15',['key_points',['../classvp__objects_1_1vp__frame__face__target.html#a2e1323137a0c9e94e5fdcc7b8ae4a8db',1,'vp_objects::vp_frame_face_target::key_points'],['../classvp__objects_1_1vp__frame__pose__target.html#a01f6d48d28b19c2ca960ee801f48d686',1,'vp_objects::vp_frame_pose_target::key_points']]],
+  ['keywords_5ffor_5fdebug_5flog_16',['keywords_for_debug_log',['../classvp__utils_1_1vp__logger.html#a5020e12d8db624c4fb4a46f8db0f250a',1,'vp_utils::vp_logger']]],
+  ['kf_5fcount_17',['kf_count',['../class_kalman_tracker.html#afcabece10c56e883dfc6565d99f22253',1,'KalmanTracker']]],
+  ['kneedfree_18',['kNeedFree',['../class_crt_allocator.html#ac7df8398c529290f0cd5950d9492f524',1,'CrtAllocator::kNeedFree'],['../class_memory_pool_allocator.html#ab4c7c5c631e451689bc9da392a65194f',1,'MemoryPoolAllocator::kNeedFree']]]
+];
